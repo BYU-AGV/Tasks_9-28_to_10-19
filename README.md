@@ -6,3 +6,5 @@ Tasks that need to be done between September 28 and October 19:
 3) H-Bridge/Motor Drivers
 4) Batteries
 5) Base Construction
+
+See issues for more detailed descriptions of tasks and due dates.
